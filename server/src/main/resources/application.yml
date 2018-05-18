@@ -1,0 +1,3 @@
+client:
+  host: http://localhost:3000
+  hostPWA: http://localhost:5000
